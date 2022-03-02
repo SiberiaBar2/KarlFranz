@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>KarlFranz</title>
+    <link>http://siberiabear.top/karlfranz/</link>
+    <description>Recent content on KarlFranz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Feb 2022 21:18:58 +0800</lastBuildDate><atom:link href="http://siberiabear.top/karlfranz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>随笔</title>
+      <link>http://siberiabear.top/karlfranz/%E9%9A%8F%E7%AC%94/</link>
+      <pubDate>Mon, 28 Feb 2022 21:18:58 +0800</pubDate>
+      
+      <guid>http://siberiabear.top/karlfranz/%E9%9A%8F%E7%AC%94/</guid>
+      <description>随笔 在没有权限时点击保存当前区块的参数 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 // React.FC const loginViewRef: MutableRefObject&amp;lt;any&amp;gt; = useRef(null); const saveLabelRef = useRef&amp;lt;string&amp;gt;(&amp;#39;&amp;#39;); // event function // 如果label（点击了）存在 ，就把它保</description>
+    </item>
+    
+    <item>
+      <title>React面试题</title>
+      <link>http://siberiabear.top/karlfranz/react%E9%9D%A2%E8%AF%95%E9%A2%98/</link>
+      <pubDate>Mon, 28 Feb 2022 21:17:52 +0800</pubDate>
+      
+      <guid>http://siberiabear.top/karlfranz/react%E9%9D%A2%E8%AF%95%E9%A2%98/</guid>
+      <description>React面试题 什么是 jsx 1 2 3 4 5 6 7 8 9 jsx ( javascript xml ) , 是javascript 语法的扩展， jsx 是React.createElement 的语法糖。</description>
+    </item>
+    
+    <item>
+      <title>Ser</title>
+      <link>http://siberiabear.top/karlfranz/search/</link>
+      <pubDate>Sat, 26 Feb 2022 18:30:48 +0800</pubDate>
+      
+      <guid>http://siberiabear.top/karlfranz/search/</guid>
+      <description>1  ssss   </description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>http://siberiabear.top/karlfranz/life/</link>
+      <pubDate>Sat, 26 Feb 2022 17:53:22 +0800</pubDate>
+      
+      <guid>http://siberiabear.top/karlfranz/life/</guid>
+      <description>aaa 1 生活像一把无情的...</description>
+    </item>
+    
+    <item>
+      <title>Read</title>
+      <link>http://siberiabear.top/karlfranz/read/</link>
+      <pubDate>Sat, 26 Feb 2022 17:52:17 +0800</pubDate>
+      
+      <guid>http://siberiabear.top/karlfranz/read/</guid>
+      <description>读书</description>
+    </item>
+    
+  </channel>
+</rss>
