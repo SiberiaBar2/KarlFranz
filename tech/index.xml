@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>KarlFranz</title>
-    <link>http://siberiabear.top/karlfranz/</link>
-    <description>Recent content on KarlFranz</description>
+    <title>Teches on KarlFranz</title>
+    <link>http://siberiabear.top/karlfranz/tech/</link>
+    <description>Recent content in Teches on KarlFranz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Mar 2022 22:55:27 +0800</lastBuildDate><atom:link href="http://siberiabear.top/karlfranz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Mar 2022 22:55:27 +0800</lastBuildDate><atom:link href="http://siberiabear.top/karlfranz/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
       <link>http://siberiabear.top/karlfranz/tech/test/</link>
@@ -41,24 +41,6 @@
       
       <guid>http://siberiabear.top/karlfranz/tech/search/</guid>
       <description>1  ssss   </description>
-    </item>
-    
-    <item>
-      <title>Life</title>
-      <link>http://siberiabear.top/karlfranz/life/</link>
-      <pubDate>Sat, 26 Feb 2022 17:53:22 +0800</pubDate>
-      
-      <guid>http://siberiabear.top/karlfranz/life/</guid>
-      <description>aaa 1 生活像一把无情的...</description>
-    </item>
-    
-    <item>
-      <title>Read</title>
-      <link>http://siberiabear.top/karlfranz/read/</link>
-      <pubDate>Sat, 26 Feb 2022 17:52:17 +0800</pubDate>
-      
-      <guid>http://siberiabear.top/karlfranz/read/</guid>
-      <description>读书</description>
     </item>
     
   </channel>
