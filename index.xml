@@ -6,14 +6,32 @@
     <description>Recent content on KarlFranz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Mar 2022 22:55:27 +0800</lastBuildDate><atom:link href="http://siberiabear.top/karlfranz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Mar 2022 19:06:03 +0800</lastBuildDate><atom:link href="http://siberiabear.top/karlfranz/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>http://siberiabear.top/karlfranz/tech/test/</link>
-      <pubDate>Wed, 02 Mar 2022 22:55:27 +0800</pubDate>
+      <title>Xss与csrf攻击</title>
+      <link>http://siberiabear.top/karlfranz/tech/xss%E4%B8%8Ecsrf%E6%94%BB%E5%87%BB/</link>
+      <pubDate>Sat, 05 Mar 2022 19:06:03 +0800</pubDate>
       
-      <guid>http://siberiabear.top/karlfranz/tech/test/</guid>
-      <description>11111111</description>
+      <guid>http://siberiabear.top/karlfranz/tech/xss%E4%B8%8Ecsrf%E6%94%BB%E5%87%BB/</guid>
+      <description>xss 与 csrf 攻击 xss 概念 1 2 3 4 XSS 全称是 Cross Site Scripting(即跨站脚本)，为了和 CSS 区分，故叫它XSS。XSS 攻击是指浏览器中执行恶意脚 本(无论是</description>
+    </item>
+    
+    <item>
+      <title>Tc Check</title>
+      <link>http://siberiabear.top/karlfranz/tech/tc-check/</link>
+      <pubDate>Sat, 05 Mar 2022 19:05:12 +0800</pubDate>
+      
+      <guid>http://siberiabear.top/karlfranz/tech/tc-check/</guid>
+      <description>ts-check 概念 1 2 3 4 5 6 7 javascript 是弱类型语言，类型校验在一定程度上能够提高代码的健壮性。 typescript 已经对类型有了良好的支持，但对于一些老项目，如果替换成ts 成</description>
+    </item>
+    
+    <item>
+      <title>New和call</title>
+      <link>http://siberiabear.top/karlfranz/tech/new%E5%92%8Ccall/</link>
+      <pubDate>Sat, 05 Mar 2022 19:04:21 +0800</pubDate>
+      
+      <guid>http://siberiabear.top/karlfranz/tech/new%E5%92%8Ccall/</guid>
+      <description>new 和call new 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 function newFactory (context) { // 在传入为null的情况下 this 指向window</description>
     </item>
     
     <item>
